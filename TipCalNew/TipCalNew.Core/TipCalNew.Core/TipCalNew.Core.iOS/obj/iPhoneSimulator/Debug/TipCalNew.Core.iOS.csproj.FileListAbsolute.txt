@@ -1,0 +1,15 @@
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/bin/iPhoneSimulator/Debug/TipCalNew.Core.iOS.exe
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/bin/iPhoneSimulator/Debug/TipCalNew.Core.iOS.pdb
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/bin/iPhoneSimulator/Debug/MvvmCross.dll
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/bin/iPhoneSimulator/Debug/MvvmCross.xml
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_PartialAppManifest.items
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/actool/_BundleResourceWithLogicalName.items
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_PartialAppManifest.items
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.4/optimized/
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/obj/iPhoneSimulator/Debug/TipCalNew.Core.iOS.csprojAssemblyReference.cache
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/obj/iPhoneSimulator/Debug/TipCalNew.Core.iOS.csproj.CoreCompileInputs.cache
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/obj/iPhoneSimulator/Debug/TipCalNew.Core.iOS.csproj.CopyComplete
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/obj/iPhoneSimulator/Debug/TipCalNew.Core.iOS.exe
+/Users/landryachiandong/Desktop/Xamarin/TipCalNew/TipCalNew.Core/TipCalNew.Core/TipCalNew.Core.iOS/obj/iPhoneSimulator/Debug/TipCalNew.Core.iOS.pdb

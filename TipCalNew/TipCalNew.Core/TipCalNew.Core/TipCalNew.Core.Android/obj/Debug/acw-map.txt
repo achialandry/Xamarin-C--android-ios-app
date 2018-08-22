@@ -1,0 +1,3 @@
+TipCalNew.Core.Droid.MainActivity, TipCalNew.Core.Android;md5cd86b32cfe7918e9de796cd80e6f8eaf.MainActivity
+TipCalNew.Core.Droid.MainActivity;md5cd86b32cfe7918e9de796cd80e6f8eaf.MainActivity
+tipcalnew.core.droid.MainActivity;md5cd86b32cfe7918e9de796cd80e6f8eaf.MainActivity
